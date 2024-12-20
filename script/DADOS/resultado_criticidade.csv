@@ -1,0 +1,201 @@
+Trecho,Ativo,Data_Interrupcao,Tempo_Operacao,Freq_Falhas,Clientes_Afetados,Impacto_DEC,Impacto_FEC,Causa,Status_Ativo,Criticidade_Calculada
+Trecho 187,Religador,2023-03-10,38,9,30590,1.77,31.32,Clima,Substituído,1915.1391
+Trecho 172,Transformador,2023-02-21,21,8,22564,0.43,13.47,Animal,Em Manutenção,1189.6054000000001
+Trecho 70,Regulador,2023-11-17,9,3,17642,0.27,5.44,Falha Humana,Em Manutenção,824.7721
+Trecho 145,Religador,2023-11-10,25,7,14140,0.41,11.65,Falha Técnica,Em Manutenção,815.6438
+Trecho 134,Chave,2024-04-29,39,3,10022,0.55,1.66,Clima,Em Manutenção,455.2855
+Trecho 56,Religador,2024-09-28,15,3,8447,0.2,2.62,Animal,Substituído,398.359
+Trecho 28,Religador,2024-09-15,32,5,7445,0.16,3.91,Desgaste Natural,Operacional,384.3353
+Trecho 131,Transformador,2024-02-18,24,9,6955,0.11,3.71,Desgaste Natural,Substituído,358.4438
+Trecho 2,Religador,2023-04-30,57,2,7526,0.83,0.85,Falha Técnica,Operacional,349.6444
+Trecho 76,Chave,2024-07-03,56,3,6982,0.46,1.87,Desgaste Natural,Substituído,336.35830000000004
+Trecho 141,Chave,2023-09-14,10,3,7312,0.04,1.5,Falha Humana,Operacional,324.8022
+Trecho 46,Chave,2024-04-02,4,4,6055,0.02,2.02,Falha Técnica,Substituído,283.8716
+Trecho 176,Religador,2023-07-27,12,4,5529,0.13,2.31,Falha Humana,Em Manutenção,272.88239999999996
+Trecho 37,Chave,2023-12-30,23,7,5138,0.13,2.43,Desgaste Natural,Substituído,260.54040000000003
+Trecho 160,Regulador,2024-11-22,21,1,5367,0.24,0.23,Desgaste Natural,Operacional,228.7777
+Trecho 98,Transformador,2024-06-17,13,4,4250,0.1,1.93,Clima,Substituído,213.1725
+Trecho 67,Seccionalizador,2024-12-08,13,4,4043,0.03,1.9,Clima,Operacional,202.0179
+Trecho 196,Regulador,2024-07-28,12,3,4383,0.03,0.87,Desgaste Natural,Substituído,194.7834
+Trecho 31,Religador,2024-07-13,25,7,3260,0.04,2.79,Falha Técnica,Operacional,189.91570000000002
+Trecho 189,Chave,2023-08-10,32,4,3554,0.12,1.9,Clima,Operacional,186.89659999999998
+Trecho 156,Regulador,2023-11-04,11,3,4024,0.04,0.77,Falha Humana,Substituído,178.6527
+Trecho 57,Chave,2023-05-06,37,6,3442,0.16,1.54,Falha Técnica,Operacional,176.8598
+Trecho 198,Regulador,2023-08-20,12,9,3696,0.08,1.21,Clima,Operacional,175.7759
+Trecho 194,Regulador,2023-10-05,40,3,3503,0.17,1.23,Falha Humana,Operacional,173.6176
+Trecho 118,Regulador,2024-06-03,15,3,3367,0.04,1.07,Falha Técnica,Em Manutenção,158.73770000000002
+Trecho 17,Transformador,2023-03-23,15,3,3342,0.1,0.93,Falha Humana,Operacional,156.8625
+Trecho 39,Chave,2024-01-07,14,8,2727,0.07,2.08,Clima,Em Manutenção,154.38209999999998
+Trecho 5,Chave,2024-10-12,27,8,2481,0.09,2.42,Desgaste Natural,Em Manutenção,153.0817
+Trecho 20,Religador,2023-03-08,104,3,2758,0.39,1.07,Animal,Em Manutenção,152.84820000000002
+Trecho 122,Religador,2023-01-11,17,9,3103,0.06,1.16,Clima,Substituído,150.7998
+Trecho 94,Transformador,2023-04-07,12,4,3059,0.03,1.18,Animal,Operacional,148.0699
+Trecho 51,Chave,2024-04-27,15,4,2962,0.03,1.33,Desgaste Natural,Operacional,147.4524
+Trecho 42,Chave,2024-10-19,180,6,2385,0.28,1.09,Falha Humana,Substituído,140.84390000000002
+Trecho 49,Chave,2024-02-02,17,3,2847,0.09,1.06,Falha Humana,Em Manutenção,139.5177
+Trecho 128,Transformador,2023-03-27,13,8,2234,0.02,2.24,Animal,Em Manutenção,136.1846
+Trecho 127,Religador,2024-09-19,20,8,2365,0.07,1.74,Clima,Em Manutenção,133.5311
+Trecho 96,Religador,2023-09-05,9,8,2210,0.04,1.98,Desgaste Natural,Substituído,130.3142
+Trecho 65,Transformador,2024-04-09,46,7,2345,0.06,1.45,Animal,Operacional,128.6433
+Trecho 106,Religador,2024-02-25,46,8,2293,0.14,1.4,Desgaste Natural,Substituído,128.15019999999998
+Trecho 85,Seccionalizador,2023-02-05,11,5,2802,0.03,0.67,Animal,Substituído,127.4334
+Trecho 59,Chave,2023-03-10,20,6,2216,0.08,1.58,Animal,Substituído,124.6714
+Trecho 23,Chave,2023-07-01,65,2,2720,0.1,0.34,Clima,Em Manutenção,124.094
+Trecho 180,Chave,2024-09-20,33,8,1918,0.04,1.99,Desgaste Natural,Em Manutenção,120.75569999999999
+Trecho 157,Transformador,2023-11-21,34,6,2189,0.12,1.28,Falha Humana,Operacional,119.9636
+Trecho 136,Regulador,2024-03-18,21,2,2741,0.05,0.32,Clima,Em Manutenção,119.3895
+Trecho 55,Regulador,2024-07-28,42,6,2365,0.14,0.69,Desgaste Natural,Operacional,116.40370000000001
+Trecho 142,Transformador,2024-12-22,6,3,2637,0.01,0.46,Falha Técnica,Operacional,115.55330000000001
+Trecho 66,Seccionalizador,2023-05-20,38,5,2437,0.17,0.45,Desgaste Natural,Operacional,115.1006
+Trecho 163,Regulador,2023-06-03,51,8,1878,0.11,1.53,Falha Humana,Em Manutenção,113.5968
+Trecho 61,Seccionalizador,2023-03-07,23,3,2483,0.1,0.38,Falha Técnica,Substituído,112.06
+Trecho 54,Transformador,2023-08-03,11,4,2483,0.03,0.54,Falha Humana,Em Manutenção,112.05390000000001
+Trecho 139,Religador,2024-09-21,13,1,2618,0.02,0.18,Desgaste Natural,Substituído,110.0356
+Trecho 117,Transformador,2023-05-30,92,2,2312,0.18,0.21,Clima,Substituído,109.9089
+Trecho 75,Religador,2023-11-20,13,3,2228,0.05,0.83,Desgaste Natural,Operacional,108.506
+Trecho 25,Seccionalizador,2024-09-10,8,7,1834,0.02,1.65,Clima,Operacional,107.89609999999999
+Trecho 19,Seccionalizador,2023-09-27,14,8,1972,0.04,1.15,Desgaste Natural,Substituído,104.46969999999999
+Trecho 7,Seccionalizador,2024-10-03,10,2,2390,0.03,0.35,Falha Técnica,Substituído,104.42540000000001
+Trecho 27,Religador,2024-07-09,38,8,1789,0.09,1.3,Animal,Em Manutenção,103.7137
+Trecho 112,Transformador,2024-01-21,32,3,2027,0.09,0.79,Falha Técnica,Substituído,102.4772
+Trecho 153,Seccionalizador,2023-08-05,32,3,2009,0.09,0.75,Falha Humana,Em Manutenção,100.9512
+Trecho 133,Seccionalizador,2023-05-01,23,6,2000,0.08,0.77,Falha Humana,Em Manutenção,99.9499
+Trecho 47,Seccionalizador,2023-06-06,23,6,2036,0.09,0.68,Desgaste Natural,Operacional,99.9007
+Trecho 1,Transformador,2023-09-10,14,3,2207,0.06,0.31,Falha Humana,Operacional,97.5923
+Trecho 45,Regulador,2023-04-16,33,4,1831,0.06,0.86,Animal,Substituído,95.1548
+Trecho 64,Seccionalizador,2023-04-16,83,3,1744,0.14,0.69,Falha Técnica,Em Manutenção,94.84370000000001
+Trecho 147,Religador,2024-10-20,32,1,2086,0.11,0.23,Falha Técnica,Em Manutenção,94.20179999999999
+Trecho 171,Chave,2024-12-04,11,1,2226,0.02,0.17,Falha Técnica,Operacional,93.9941
+Trecho 30,Chave,2024-11-06,15,2,2043,0.06,0.39,Falha Técnica,Em Manutenção,92.7243
+Trecho 105,Regulador,2023-08-18,59,5,1611,0.19,0.84,Falha Técnica,Em Manutenção,92.2477
+Trecho 41,Chave,2024-10-07,21,6,1652,0.05,1.12,Falha Técnica,Em Manutenção,91.9495
+Trecho 110,Chave,2024-07-29,11,4,1977,0.01,0.56,Falha Técnica,Operacional,91.5683
+Trecho 138,Religador,2023-09-02,12,9,1474,0.03,1.52,Clima,Substituído,91.5209
+Trecho 52,Seccionalizador,2023-09-06,15,1,2055,0.05,0.12,Falha Técnica,Em Manutenção,87.43950000000001
+Trecho 184,Transformador,2023-09-26,14,8,1425,0.04,1.31,Desgaste Natural,Em Manutenção,85.8137
+Trecho 197,Regulador,2024-04-11,14,2,2007,0.04,0.14,Clima,Substituído,85.51820000000001
+Trecho 79,Regulador,2024-10-20,5,9,1752,0.01,0.72,Falha Humana,Operacional,85.3123
+Trecho 177,Transformador,2023-05-24,35,3,1829,0.12,0.26,Desgaste Natural,Em Manutenção,85.0906
+Trecho 3,Regulador,2023-12-10,24,7,1595,0.03,0.91,Falha Técnica,Substituído,85.02940000000001
+Trecho 200,Transformador,2023-01-14,10,8,1766,0.01,0.53,Animal,Em Manutenção,82.4438
+Trecho 126,Seccionalizador,2023-05-24,31,5,1640,0.07,0.58,Animal,Operacional,82.0371
+Trecho 188,Religador,2023-08-17,16,1,1848,0.05,0.24,Animal,Em Manutenção,81.6575
+Trecho 8,Religador,2023-06-03,21,7,1531,0.02,0.73,Falha Humana,Operacional,78.2781
+Trecho 63,Seccionalizador,2024-09-02,26,8,1352,0.05,0.9,Falha Humana,Em Manutenção,75.9165
+Trecho 173,Religador,2023-05-12,50,2,1637,0.09,0.15,Falha Humana,Em Manutenção,75.4212
+Trecho 185,Seccionalizador,2024-07-28,20,9,1386,0.04,0.83,Clima,Operacional,75.0617
+Trecho 135,Transformador,2024-10-10,51,6,1360,0.13,0.58,Falha Técnica,Operacional,74.38289999999999
+Trecho 109,Chave,2023-09-02,15,7,1475,0.03,0.51,Animal,Em Manutenção,71.4494
+Trecho 104,Transformador,2023-08-24,20,2,1623,0.05,0.13,Falha Humana,Em Manutenção,70.761
+Trecho 186,Religador,2023-11-13,13,8,1147,0.03,1.13,Desgaste Natural,Substituído,70.66239999999999
+Trecho 129,Transformador,2023-08-29,18,4,1457,0.03,0.43,Falha Humana,Operacional,69.3574
+Trecho 43,Seccionalizador,2023-10-27,18,1,1538,0.02,0.16,Clima,Operacional,66.8326
+Trecho 15,Seccionalizador,2024-05-11,10,7,1124,0.02,1.01,Falha Técnica,Operacional,66.7601
+Trecho 144,Regulador,2023-04-24,73,7,1144,0.08,0.6,Clima,Em Manutenção,66.2844
+Trecho 83,Transformador,2023-03-23,37,5,1238,0.04,0.59,Falha Humana,Operacional,65.6657
+Trecho 72,Chave,2023-09-24,19,4,1360,0.05,0.38,Desgaste Natural,Em Manutenção,65.1985
+Trecho 58,Religador,2023-09-20,19,1,1480,0.06,0.12,Clima,Operacional,65.0838
+Trecho 21,Religador,2024-04-07,17,2,1515,0.02,0.12,Falha Técnica,Operacional,65.0266
+Trecho 143,Transformador,2023-02-24,45,7,1162,0.1,0.56,Animal,Operacional,64.607
+Trecho 154,Seccionalizador,2024-02-04,202,4,1014,0.12,0.16,Desgaste Natural,Operacional,63.8356
+Trecho 9,Religador,2024-03-06,34,2,1303,0.09,0.3,Falha Humana,Substituído,63.803700000000006
+Trecho 168,Transformador,2024-10-24,5,4,1269,0.01,0.56,Animal,Operacional,62.768299999999996
+Trecho 48,Seccionalizador,2023-12-31,18,4,1378,0.04,0.22,Clima,Operacional,62.290200000000006
+Trecho 166,Regulador,2023-07-31,68,7,951,0.03,0.87,Animal,Substituído,61.9834
+Trecho 170,Seccionalizador,2023-08-22,17,4,1238,0.04,0.48,Falha Humana,Operacional,61.8492
+Trecho 174,Seccionalizador,2023-05-10,19,3,1208,0.03,0.44,Falha Técnica,Em Manutenção,59.6789
+Trecho 4,Chave,2024-01-26,22,3,1279,0.05,0.21,Falha Humana,Substituído,58.773
+Trecho 165,Regulador,2024-11-26,18,7,1052,0.04,0.69,Falha Humana,Substituído,58.720699999999994
+Trecho 22,Religador,2023-02-12,18,5,1126,0.04,0.54,Desgaste Natural,Operacional,58.6582
+Trecho 155,Regulador,2024-03-06,7,5,1154,0.01,0.55,Clima,Substituído,58.1268
+Trecho 90,Religador,2023-10-08,13,2,1258,0.03,0.2,Desgaste Natural,Substituído,56.3629
+Trecho 77,Seccionalizador,2024-07-22,11,2,1275,0.01,0.16,Desgaste Natural,Substituído,55.4283
+Trecho 182,Religador,2024-12-02,10,5,1218,0.02,0.22,Clima,Operacional,54.6016
+Trecho 36,Seccionalizador,2024-06-10,30,6,1058,0.06,0.39,Clima,Substituído,54.5243
+Trecho 16,Chave,2024-03-11,27,3,1176,0.06,0.14,Falha Humana,Operacional,53.9668
+Trecho 97,Religador,2024-04-10,41,4,1030,0.05,0.35,Desgaste Natural,Substituído,53.154
+Trecho 121,Seccionalizador,2024-11-12,19,4,1161,0.04,0.19,Falha Técnica,Em Manutenção,53.085699999999996
+Trecho 124,Chave,2023-07-13,15,7,1079,0.03,0.37,Clima,Em Manutenção,52.7884
+Trecho 32,Transformador,2024-07-25,17,3,1153,0.01,0.22,Falha Humana,Em Manutenção,52.2373
+Trecho 152,Seccionalizador,2023-01-22,58,2,1053,0.06,0.1,Clima,Operacional,50.7208
+Trecho 35,Religador,2023-05-13,42,1,1057,0.06,0.1,Falha Técnica,Operacional,49.6008
+Trecho 125,Transformador,2024-05-07,9,2,1065,0.02,0.26,Falha Humana,Em Manutenção,49.2076
+Trecho 192,Religador,2023-08-19,13,4,1042,0.01,0.29,Falha Humana,Em Manutenção,48.8878
+Trecho 114,Seccionalizador,2023-10-08,10,3,1006,0.02,0.34,Animal,Em Manutenção,48.5396
+Trecho 162,Transformador,2023-09-21,14,6,837,0.01,0.65,Falha Técnica,Operacional,48.021800000000006
+Trecho 159,Chave,2024-07-26,86,7,729,0.03,0.53,Desgaste Natural,Operacional,47.6924
+Trecho 89,Regulador,2024-05-29,26,2,986,0.03,0.24,Clima,Substituído,47.3289
+Trecho 130,Religador,2024-02-11,40,9,715,0.05,0.65,Clima,Operacional,46.519000000000005
+Trecho 29,Religador,2023-02-02,55,3,955,0.03,0.14,Desgaste Natural,Substituído,46.3939
+Trecho 60,Seccionalizador,2023-04-30,5,1,1085,0.01,0.11,Clima,Em Manutenção,46.3408
+Trecho 101,Seccionalizador,2024-07-23,37,8,704,0.04,0.67,Desgaste Natural,Operacional,45.917699999999996
+Trecho 148,Transformador,2023-06-27,10,6,885,0.01,0.46,Falha Humana,Operacional,45.7933
+Trecho 78,Religador,2023-09-28,54,4,855,0.09,0.21,Falha Humana,Operacional,45.6702
+Trecho 80,Seccionalizador,2023-03-05,46,4,790,0.07,0.33,Falha Humana,Substituído,44.199600000000004
+Trecho 87,Chave,2024-11-30,40,1,967,0.02,0.08,Clima,Operacional,44.1406
+Trecho 44,Chave,2024-05-15,59,4,732,0.05,0.32,Falha Humana,Substituído,42.069500000000005
+Trecho 84,Transformador,2023-05-27,25,9,633,0.01,0.71,Falha Técnica,Em Manutenção,41.9508
+Trecho 69,Seccionalizador,2024-08-17,17,9,779,0.02,0.42,Animal,Operacional,41.6316
+Trecho 119,Seccionalizador,2023-10-05,37,9,789,0.02,0.26,Clima,Em Manutenção,40.4076
+Trecho 107,Transformador,2024-06-19,9,5,741,0.01,0.46,Clima,Operacional,39.9533
+Trecho 62,Regulador,2023-07-25,8,1,937,0.01,0.05,Falha Técnica,Em Manutenção,39.451800000000006
+Trecho 164,Transformador,2024-02-24,10,3,882,0.02,0.13,Desgaste Natural,Substituído,39.3481
+Trecho 14,Religador,2024-08-15,28,6,784,0.02,0.24,Falha Técnica,Em Manutenção,39.0846
+Trecho 74,Regulador,2023-07-21,9,6,823,0.01,0.22,Falha Técnica,Em Manutenção,38.3973
+Trecho 86,Regulador,2024-12-27,45,1,764,0.07,0.06,Falha Técnica,Substituído,37.6391
+Trecho 120,Chave,2024-08-06,27,3,785,0.01,0.16,Falha Técnica,Operacional,37.1083
+Trecho 26,Religador,2024-01-29,19,4,802,0.03,0.12,Clima,Operacional,36.990899999999996
+Trecho 137,Seccionalizador,2024-12-26,35,4,761,0.04,0.11,Falha Técnica,Em Manutenção,36.7537
+Trecho 81,Transformador,2023-04-10,10,6,672,0.01,0.39,Falha Técnica,Substituído,35.8628
+Trecho 111,Religador,2024-11-05,29,8,677,0.03,0.23,Falha Técnica,Substituído,35.007400000000004
+Trecho 99,Transformador,2024-09-30,14,7,637,0.01,0.4,Falha Humana,Em Manutenção,34.984300000000005
+Trecho 50,Transformador,2024-12-15,20,1,775,0.02,0.03,Animal,Operacional,33.8531
+Trecho 53,Regulador,2023-08-03,71,9,578,0.02,0.21,Falha Técnica,Operacional,33.680099999999996
+Trecho 175,Transformador,2024-07-11,37,3,638,0.01,0.24,Desgaste Natural,Em Manutenção,33.640299999999996
+Trecho 195,Seccionalizador,2024-12-27,40,8,560,0.02,0.34,Falha Humana,Operacional,33.0996
+Trecho 199,Seccionalizador,2024-08-27,25,1,719,0.03,0.05,Clima,Substituído,32.7404
+Trecho 149,Chave,2024-09-09,8,9,512,0.0,0.51,Falha Humana,Em Manutenção,31.3965
+Trecho 73,Chave,2024-06-23,39,4,506,0.02,0.27,Desgaste Natural,Em Manutenção,29.4491
+Trecho 190,Transformador,2024-01-05,10,9,572,0.01,0.26,Animal,Substituído,29.243299999999998
+Trecho 34,Transformador,2023-10-19,29,8,485,0.03,0.31,Clima,Substituído,28.9394
+Trecho 24,Religador,2024-12-15,15,6,508,0.0,0.29,Falha Humana,Substituído,27.3635
+Trecho 181,Regulador,2024-01-16,21,2,562,0.02,0.09,Falha Humana,Substituído,26.6221
+Trecho 150,Regulador,2024-06-17,4,4,533,0.0,0.22,Desgaste Natural,Substituído,26.073
+Trecho 71,Chave,2023-11-15,9,1,594,0.0,0.05,Falha Humana,Substituído,25.4875
+Trecho 146,Religador,2024-01-27,22,6,480,0.02,0.19,Falha Técnica,Substituído,25.4371
+Trecho 11,Regulador,2024-10-04,11,4,505,0.01,0.15,Falha Técnica,Em Manutenção,24.4268
+Trecho 132,Religador,2023-11-13,52,7,327,0.02,0.26,Falha Humana,Substituído,23.1276
+Trecho 123,Regulador,2023-12-04,8,4,438,0.01,0.22,Clima,Substituído,22.917299999999997
+Trecho 33,Regulador,2024-09-04,22,1,474,0.02,0.04,Falha Humana,Operacional,22.1746
+Trecho 68,Seccionalizador,2023-05-18,95,2,298,0.03,0.06,Falha Técnica,Em Manutenção,21.701900000000002
+Trecho 103,Transformador,2023-04-10,24,4,391,0.02,0.16,Desgaste Natural,Operacional,21.4326
+Trecho 95,Religador,2023-12-19,43,1,407,0.02,0.04,Falha Humana,Substituído,21.1746
+Trecho 38,Transformador,2023-05-09,31,5,349,0.02,0.2,Falha Humana,Operacional,21.1186
+Trecho 13,Chave,2023-09-11,20,7,348,0.0,0.23,Falha Técnica,Em Manutenção,20.1545
+Trecho 140,Regulador,2023-01-26,11,6,365,0.01,0.2,Animal,Substituído,19.8343
+Trecho 6,Chave,2024-08-08,54,8,307,0.02,0.1,Clima,Em Manutenção,19.263600000000004
+Trecho 116,Seccionalizador,2024-07-01,11,5,344,0.01,0.19,Animal,Operacional,18.7928
+Trecho 161,Religador,2024-05-12,60,3,293,0.03,0.04,Animal,Substituído,18.2989
+Trecho 183,Seccionalizador,2023-09-19,85,1,233,0.03,0.03,Animal,Em Manutenção,17.697400000000002
+Trecho 102,Seccionalizador,2023-08-07,54,2,300,0.01,0.05,Clima,Em Manutenção,17.6518
+Trecho 108,Transformador,2024-10-19,19,6,334,0.0,0.12,Desgaste Natural,Substituído,17.298
+Trecho 178,Regulador,2024-06-30,5,9,328,0.0,0.16,Clima,Em Manutenção,16.744
+Trecho 179,Transformador,2023-01-25,21,3,319,0.01,0.05,Animal,Substituído,15.771799999999999
+Trecho 12,Transformador,2023-09-06,16,6,232,0.0,0.17,Falha Técnica,Operacional,13.985499999999998
+Trecho 91,Seccionalizador,2024-01-21,12,4,269,0.0,0.11,Animal,Em Manutenção,13.936499999999999
+Trecho 158,Transformador,2023-07-07,49,5,191,0.01,0.07,Desgaste Natural,Operacional,13.2948
+Trecho 115,Chave,2024-11-23,13,7,238,0.0,0.13,Clima,Em Manutenção,13.179499999999999
+Trecho 193,Seccionalizador,2024-02-21,20,4,247,0.01,0.05,Clima,Substituído,12.811800000000002
+Trecho 10,Chave,2024-08-12,17,5,222,0.01,0.06,Desgaste Natural,Operacional,11.7733
+Trecho 18,Transformador,2024-02-19,27,9,179,0.0,0.12,Clima,Substituído,11.738
+Trecho 82,Transformador,2023-06-10,14,5,195,0.0,0.05,Falha Humana,Em Manutenção,9.9275
+Trecho 151,Regulador,2023-06-30,35,3,159,0.01,0.02,Animal,Operacional,9.8873
+Trecho 93,Religador,2024-03-13,33,1,168,0.01,0.01,Desgaste Natural,Em Manutenção,9.8858
+Trecho 92,Regulador,2024-06-14,10,3,189,0.0,0.06,Falha Humana,Operacional,9.569
+Trecho 88,Regulador,2023-07-05,13,7,146,0.0,0.13,Animal,Operacional,9.4995
+Trecho 113,Seccionalizador,2024-06-11,24,5,149,0.0,0.04,Falha Técnica,Operacional,8.686
+Trecho 167,Transformador,2024-09-08,7,1,193,0.0,0.02,Clima,Operacional,8.683
+Trecho 169,Chave,2024-08-18,14,7,141,0.0,0.05,Animal,Em Manutenção,7.7675
+Trecho 100,Religador,2024-11-05,7,5,143,0.0,0.04,Animal,Operacional,7.086
+Trecho 191,Transformador,2024-07-05,19,3,126,0.0,0.01,Desgaste Natural,Substituído,6.7615
+Trecho 40,Regulador,2024-09-24,23,2,76,0.0,0.01,Animal,Operacional,5.0815
